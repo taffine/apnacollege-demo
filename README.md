@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is my first Git repository
-Author- shweta sharma
+Author-shweta sharma
